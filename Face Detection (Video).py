@@ -1,6 +1,6 @@
 import cv2
 
-faceCascade = cv2.CascadeClassifier("rsc/xml/haarcascade_frontalface_default.xml")
+faceCascade = cv2.CascadeClassifier("Resources/xml/haarcascade_frontalface_default.xml")
 
 video = cv2.VideoCapture(0)
 

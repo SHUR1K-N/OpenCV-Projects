@@ -2,7 +2,7 @@ import cv2
 import numpy
 import matplotlib.pyplot as plot
 
-imageRegular = cv2.imread("rsc/cards.jpg")
+imageRegular = cv2.imread("Resources/cards.jpg")
 
 ## To get the edge points of J card:
 

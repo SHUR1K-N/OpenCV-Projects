@@ -4,7 +4,7 @@ import matplotlib.pyplot as plot
 
 kernel = numpy.ones((5, 5), numpy.uint8) # Reference unitary matrix
 
-imageRegular = cv2.imread("rsc/lisa.png")
+imageRegular = cv2.imread("Resources/lisa.png")
 print(imageRegular.shape)
 
 size = (250, 300) # W & H

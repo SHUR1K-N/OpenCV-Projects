@@ -1,7 +1,7 @@
 import cv2
 
-faceCascade = cv2.CascadeClassifier("rsc/xml/haarcascade_frontalface_default.xml")
-image = cv2.imread("rsc/people.jpg")
+faceCascade = cv2.CascadeClassifier("Resources/xml/haarcascade_frontalface_default.xml")
+image = cv2.imread("Resources/people.jpg")
 image = cv2.resize(image, (700, 500))
 imageGray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 

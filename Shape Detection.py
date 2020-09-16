@@ -13,7 +13,7 @@ def getContours(image):
         # print(f"The perimeter is {perimeter}")
 
 
-imageRegular = cv2.imread("rsc/shapes.png")
+imageRegular = cv2.imread("Resources/shapes.png")
 imageRegular = cv2.resize(imageRegular, (250, 250))
 
 imageGray = cv2.cvtColor(imageRegular, cv2.COLOR_BGR2GRAY)

@@ -16,7 +16,7 @@ cv2.createTrackbar("Saturation Max", "Trackbar", 255, 255, refresh)
 cv2.createTrackbar("Value Min", "Trackbar", 180, 255, refresh)
 cv2.createTrackbar("Value Max", "Trackbar", 255, 255, refresh)
 
-image = cv2.imread("rsc/tree.png")
+image = cv2.imread("Resources/tree.png")
 
 while(True):
     imageRegular = cv2.resize(image, (256, 256))

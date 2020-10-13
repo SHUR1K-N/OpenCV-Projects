@@ -1,6 +1,4 @@
 import cv2
-import numpy
-import matplotlib.pyplot as plot
 
 
 def getContours(image):

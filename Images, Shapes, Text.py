@@ -1,6 +1,5 @@
 import cv2
 import numpy
-import matplotlib.pyplot as plot
 
 kernel = numpy.ones((5, 5), numpy.uint8) # Reference unitary matrix
 

@@ -1,6 +1,5 @@
 import cv2
 import numpy
-import matplotlib.pyplot as plot
 
 image1 = cv2.imread("Resources/tree.png")
 image2 = cv2.imread("Resources/tree.png")

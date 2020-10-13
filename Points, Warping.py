@@ -1,13 +1,13 @@
 import cv2
 import numpy
-import matplotlib.pyplot as plot
+import matplotlib.pyplot as plotter
 
 imageRegular = cv2.imread("Resources/cards.jpg")
 
 ## To get the edge points of J card:
 
-# plot.imshow(imageRegular)
-# plot.waitforbuttonpress(0)
+# plotter.imshow(imageRegular)
+# plotter.waitforbuttonpress(0)
 
 ## 123, 533 - bottom-left of card
 ## 441, 782 - bottom-right of card

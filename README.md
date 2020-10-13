@@ -9,7 +9,7 @@ A collection of programs, that consists of the most primitive and simple, yet so
 - Finding points in an image and warping them — *very interesting*
 - Horizontal and vertical image stacking
 
-This collection of programs was created in Python, for the purpose of learning and studying image processing and its capabilities using OpenCV. The inspiration to *learn* implementing OpenCV arose from a subject called "Digital Signal & Image Processing" in my final academic year which I found very interesting; and [this YouTube video](https://www.youtube.com/watch?v=WQeoO7MI0Bs "This YouTube video") was the huge inspiration I required to finally get off of my proverbial butt and actually *implement* image processing in these programs.
+This collection of programs was created in Python, for the purpose of learning and studying image processing and its capabilities using OpenCV. The inspiration to *learn* implementing OpenCV arose from the university program "Digital Signal & Image Processing" in my final academic year which I found very interesting; and [this YouTube video](https://www.youtube.com/watch?v=WQeoO7MI0Bs "This YouTube video") was the huge inspiration I required to finally get off of my proverbial butt and actually *implement* image processing in these programs.
 
 
 ## Dependencies to PIP-Install

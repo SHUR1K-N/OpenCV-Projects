@@ -15,6 +15,9 @@ This collection of programs was created in Python, for the purpose of learning a
 ## Dependencies to PIP-Install
 - **opencv-python**
 - **opencv-python-headless**
+- **opencv-contrib-python**
+- **numpy**
+- **matplotlib**
 
 ------------
 

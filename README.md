@@ -21,4 +21,4 @@ This collection of programs was created in Python, for the purpose of learning a
 
 ------------
 
-My website: http://bit.do/SHUR1KN
+My website: https://TheComputerNoob.com
